@@ -87,3 +87,11 @@ Supported shapes:
 
 (extendable for custom shapes)
 
+## ✨ Features
+- ✅ iOS 15+ support  
+- ✅ Customizable shapes (circle, underline, etc.)  
+- ✅ Icon + text styling  
+- ✅ Smooth animations with `withAnimation`  
+- ✅ Works with `@State` bindings  
+
+
