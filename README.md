@@ -8,7 +8,8 @@ To install this Package, import 'CustomUnderlineTab'
 <ins>https://github.com/ishuarun13/CustomUnderlineTab.git</ins>
 
 ## Usage Example Screenshot
-![Alt]imageLiteral(resourceName: "Customtabbar- Bottomline.png")
+<img width="1206" height="2622" alt="Customtabbar- Bottomline" src="https://github.com/user-attachments/assets/1d4fde68-43d3-49ca-a31f-b195f0ea3611" />
+
 
 
 ''' SwiftUI
@@ -85,3 +86,4 @@ Supported shapes:
 .underline
 
 (extendable for custom shapes)
+
