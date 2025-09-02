@@ -63,27 +63,27 @@ struct CustomUnderlineTab: View {
 ## Customization
 
 * TabBarStyle lets you control:
-  -- iconSize
+  - iconSize
 
--- selectedTextColor / unselectedTextColor
+- selectedTextColor / unselectedTextColor
 
--- selectedIconColor / unselectedIconColor
+- selectedIconColor / unselectedIconColor
 
--- font
+- font
 
--- animation
+- animation
 
--- shapeColor / selectedShapeColor / unselectedShapeColor
+- shapeColor / selectedShapeColor / unselectedShapeColor
 
--- underlineColor
+- underlineColor
 
--- enableLiquidEffect
+- enableLiquidEffect
 
--- Supported shapes:
+- Supported shapes:
 
--- circle
+- circle
 
--- underline
+- underline
 
 
 
@@ -93,6 +93,7 @@ struct CustomUnderlineTab: View {
 - ✅ Icon + text styling  
 - ✅ Smooth animations with `withAnimation`  
 - ✅ Works with `@State` bindings  
+
 
 
 
