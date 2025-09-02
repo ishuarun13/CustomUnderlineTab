@@ -4,8 +4,9 @@
 ## Installation
 
 To install this Package, import 'CustomUnderlineTab'
-
+paste this url -> <ins>https://github.com/ishuarun13/CustomUnderlineTab</ins> in SPM
 <ins>https://github.com/ishuarun13/CustomUnderlineTab.git</ins>
+
 
 ## Usage Example Screenshot
 <img width="1206" height="2622" alt="Customtabbar- Bottomline" src="https://github.com/user-attachments/assets/1d4fde68-43d3-49ca-a31f-b195f0ea3611" />
@@ -93,6 +94,7 @@ struct CustomUnderlineTab: View {
 - ✅ Icon + text styling  
 - ✅ Smooth animations with `withAnimation`  
 - ✅ Works with `@State` bindings  
+
 
 
 
